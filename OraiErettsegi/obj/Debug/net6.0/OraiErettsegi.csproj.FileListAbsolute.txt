@@ -1,0 +1,17 @@
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\OraiErettsegi.exe
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\OraiErettsegi.deps.json
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\OraiErettsegi.runtimeconfig.json
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\OraiErettsegi.dll
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\OraiErettsegi.pdb
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.csproj.AssemblyReference.cache
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.AssemblyInfoInputs.cache
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.AssemblyInfo.cs
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.csproj.CoreCompileInputs.cache
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.dll
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\refint\OraiErettsegi.dll
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.pdb
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\OraiErettsegi.genruntimeconfig.cache
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\obj\Debug\net6.0\ref\OraiErettsegi.dll
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\dobasok.txt
+C:\Users\beke.tamas\source\repos\OraiErettsegi\OraiErettsegi\bin\Debug\net6.0\osvenyek.txt
